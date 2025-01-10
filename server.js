@@ -23,7 +23,7 @@ app.use('/app', (req, res) => {
 });
 
 app.use('/app-some', (req, res) => {
-  res.send('something');
+  res.send('something some');
 })
 app.use((req, res) => {
   res.send('ASSALOMU ALAYKUM!.');
