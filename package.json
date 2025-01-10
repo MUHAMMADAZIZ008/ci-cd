@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\"",
     "start": "node server.js",
-    "prod": "npx pm2 restart node-ci-cd"
+    "prod": "npx pm2 restart muhammadaziz"
   },
   "keywords": [],
   "author": "",
