@@ -19,7 +19,7 @@ app.use('/users', (req, res) => {
 });
 
 app.use('/app', (req, res) => {
-  res.send('APPLOCATION!');
+  res.send('ilova!');
 });
 
 app.use('/app-some', (req, res) => {
